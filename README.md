@@ -55,10 +55,10 @@ Sinta-se à vontade para contribuir com este repositório! <br>
 📚 Compartilhe recursos ou melhorias no design.<br>
 
 ## 📬 Contato
-Autor: Stephanie Caroline, Evellyn Orico
-E-mail: stephaniecarolinedev@gmail.com
-LinkedIn: linkedin.com/in/stephanie-caroline-97973430b
-GitHub: https://github.com/StephanieCaroll
+Autor: Stephanie Caroline, Evellyn Orico  <br>
+E-mail: stephaniecarolinedev@gmail.com <br>
+LinkedIn: linkedin.com/in/stephanie-caroline-97973430b <br>
+GitHub: https://github.com/StephanieCaroll <br>
 
 
 
